@@ -1,0 +1,287 @@
+body{
+	background-color:#000033;
+}
+.boton{
+	border			:none;
+	background-color:transparent;
+	padding			:14px 28px;
+	font-family		:verdana;
+	font-size		:18px;
+	cursor			:pointer;
+	display			:inline-block;
+	color			:#307d7e;
+	border-radius	:5px;
+	
+}
+.boton:hover{
+	background		:#000033;
+}
+.boted{
+	border			:none;
+	background-color:inherit;
+	padding			:5px 8px;
+	font-family		:verdana;
+	font-size		:12px;
+	cursor			:pointer;
+	display			:inline-block;
+	color			:#307d7e;
+	
+}
+.boted:hover{
+	background		:#000033;
+}
+.ventanacentro{
+	width			:50%;
+	margin-left		:25%;
+	margin-top		:10%;
+	background-color:#f0ffff;
+	border-radius	:10px;
+	box-shadow		:8px 8px 20px #000;
+
+}
+.ventanaconfig{
+	width			:50%;
+	margin-left		:25%;
+	margin-top		:3%;
+	background-color:#f0ffff;
+	border-radius	:10px;
+	box-shadow		:8px 8px 20px #000;
+
+}
+.ventanaconsultas{
+	width			:100%;
+	height			:100%;
+	margin-top		:0;
+	background-color:#f0ffff;
+	overflow		:scroll;
+	box-shadow		:8px 8px 20px #000;
+	
+}
+.ventanaerror{
+	width			:50%;
+	margin-left		:25%;
+	margin-top		:0%;
+	background-color:#f0ffff;
+	border-radius	:10px;
+	box-shadow		:8px 8px 20px #000;
+}
+
+.fotosgarimbas{
+	width:80%;
+	margin-left:15%
+}
+
+.textoprecio{
+	color			:red;
+	font-family		:verdana;
+	font-size		:1.75vw;
+	font-weight		:bold;
+	text-align		:center;
+	
+}
+.textoabajo{
+	color			:#000033;
+	font-family		:verdana;
+	font-size		:1.1vw;
+	font-weight		:bold;
+	text-align		:center;
+	
+}
+.textocampo{
+	color			:#000033;
+	font-family		:verdana;
+	font-size		:1.1vw;
+	font-weight		:bold;
+	text-align		:left;
+	
+}
+.textoncampo{
+	color			:#000033;
+	font-family		:verdana;
+	font-size		:1.1vw;
+	font-weight		:bold;
+	text-align		:left;
+	
+}
+.textonombre{
+	color			:yellow;
+	font-family		:verdana;
+	font-size		:1.3vw;
+	font-weight		:bold;
+	text-align		:left;
+	
+}
+
+.textonumero{
+	color			:white;
+	font-family		:verdana;
+	font-size		:1.7vw;
+	font-weight		:bold;
+	text-align		:right;
+	
+}
+.textotitulo{
+	color			:#f0ffff;
+	font-family		:verdana;
+	font-size		:3vw;
+	font-weight		:bold;
+	
+}
+#pantalla{
+	width			:100%;
+	height			:100%;
+	float			:left;
+	background-color:#000033;
+	cursor			:none;
+	
+}
+#cabecera{
+	width			:100%;
+	height			:20%;
+	float			:left;
+	background-color:#000033;
+
+}
+#cuerpos{
+	width			:98.5%;
+	height			:80%;
+	float			:left;
+	background-color:#000033;
+	
+}
+#etiqueta{
+	width			:33.33%;
+	height			:25%;
+	float			:left;
+	background-color:#000033;
+
+}
+#foto{
+	width			:33%;
+	height			:80%;
+	float			:left;
+	
+}
+#fila1{
+	width			:100%;
+	height			:20%;
+	float			:left;
+	
+}
+#numero{
+	width			:10%;
+	height			:100%;
+	float			:left;
+	background-color:#000033;
+}
+#ncerveza{
+	width			:90%;
+	height			:100%;
+	float			:left;
+	background-color:#000033;
+}
+#fila2{
+	width			:67%;
+	height			:20%;
+	float			:left;
+	
+}
+#tpais{
+	width			:25%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#pais{
+	width			:75%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#fila3{
+	width			:67%;
+	height			:20%;
+	float			:left;
+	
+}
+#testilo{
+	width			:25%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#estilo{
+	width			:75%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#fila4{
+	width			:67%;
+	height			:20%;
+	float			:left;
+	
+}
+#tcolor{
+	width			:25%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#colorcer{
+	width			:75%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#fila5{
+	width			:67%;
+	height			:20%;
+	float			:left;
+	background-color:#99ffff;
+	
+}
+#alcoho{
+	width			:33.33%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#canti{
+	width			:35.33%;
+	height			:100%;
+	float			:left;
+	background-color:#99ffff;
+}
+#prec{
+	width			:31.33%;
+	height			:100%;
+	float			:left;
+	background-color:#f0ffff;
+	border-radius	:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
